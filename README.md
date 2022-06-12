@@ -40,4 +40,6 @@ Le back est en place
 
 Le back prend en charge la liaison avec la base de donnée et les fonctionnalités du frontend pour cette application React
 
+Il ne vous reste plus que le Front a installer (https://github.com/zaimo3869/Groupomania-frontend)
+
 Résaux sociale Groupomania

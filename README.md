@@ -42,4 +42,7 @@ Le back prend en charge la liaison avec la base de donnée et les fonctionnalit�
 
 Il ne vous reste plus que le Front a installer (https://github.com/zaimo3869/Groupomania-frontend)
 
-Résaux sociale Groupomania
+Résaux sociale Groupomania ! 
+
+![image](https://user-images.githubusercontent.com/77543340/175907114-cf5c73b6-1cb5-4b02-838a-7971bfa570e6.png)
+
